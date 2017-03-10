@@ -24,3 +24,4 @@ public class SimpleLanguage implements Language{
   public int getActionsNumber(){ return actions.length; }
   public int getPerceptsNumber(){ return percepts.length; }
 }
+
